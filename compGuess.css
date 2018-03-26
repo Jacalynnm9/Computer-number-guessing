@@ -1,0 +1,27 @@
+body {
+	background-color: #f0f0fc;
+	font-family: helvetica;
+	margin: 0 auto;
+	width: 70%;
+	text-align: center;
+}
+
+p {
+	color: #a1a1af;
+	font-size: 1.5em;
+}
+
+h1, 
+h3 {
+	color: #73737d;
+}
+
+.content {
+	background-color: #d1d1f6;
+	height: 500px;
+	width: 700px;
+	margin: 0 auto;
+	padding-top: 10%;
+	border: solid #fafafe 10px;
+	margin-top: 40px;
+}
